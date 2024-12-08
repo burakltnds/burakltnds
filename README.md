@@ -4,7 +4,6 @@
 ![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burakltnds&theme=radical)
 ![Commit History](https://github-readme-activity-graph.cyclic.app/graph?username=burakltnds&hide_title=true&theme=github)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=burakltnds)
-![Commit Graph](https://github-readme-commit-graph.herokuapp.com/?username=burakltnds)
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burakltnds&theme=radical)
 
 
