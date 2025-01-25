@@ -29,4 +29,6 @@ Bilgisayar Mühendisliği öğrencisiyim ve yaptığım çalışmaları github �
   </a>
 </p>
 
+![Top Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=burakltnds&theme=gruvbox)
+
 
