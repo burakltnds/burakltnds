@@ -4,7 +4,9 @@ Bilgisayar Mühendisliği öğrencisiyim ve yaptığım çalışmaları github �
 - **Diller:** Python, Java, C++
 - **Diğer:** Git,
 
-## Projeler
+## İletişim
+- E-posta: burakaltundas52@gmail.com
+- LinkedIn: [Burak Altundaş](https://www.linkedin.com/in/burakaltundas/)
 
 
 
