@@ -25,7 +25,10 @@ Bilgisayar Mühendisliği öğrencisiyim ve yaptığım çalışmaları github �
 </p>
 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=burakltnds&layout=donut&theme=gruvbox)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakltnds&layout=donut&theme=gruvbox" alt="Most Used Languages">
+</p>
+
 
 
 
