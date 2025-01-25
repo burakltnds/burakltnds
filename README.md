@@ -20,7 +20,9 @@ Bilgisayar Mühendisliği öğrencisiyim ve yaptığım çalışmaları github �
 </p>
 
 ## GitHub İstatistiklerim
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burakltnds&theme=gruvbox)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burakltnds&theme=gruvbox" alt="Profile Summary">
+</p>
 
 
 <p align="center">
@@ -29,6 +31,5 @@ Bilgisayar Mühendisliği öğrencisiyim ve yaptığım çalışmaları github �
   </a>
 </p>
 
-![Top Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=burakltnds&theme=gruvbox)
 
 
