@@ -20,7 +20,7 @@ Bilgisayar Mühendisliği öğrencisiyim ve yaptığım çalışmaları github �
 </p>
 
 ## GitHub İstatistiklerim
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burakltnds&theme=tokyonight)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burakltnds&theme=gruvbox)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burakltnds&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
