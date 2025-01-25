@@ -3,7 +3,6 @@ Bilgisayar Mühendisliği öğrencisiyim ve yaptığım çalışmaları github �
 
 ## İletişim
 - **E-posta**: [burakaltundas52@gmail.com](mailto:burakaltundas52@gmail.com)
-
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Burak_Altundaş-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/burakaltundas/)
 
 ## 🚀 Kullandığım Diller
