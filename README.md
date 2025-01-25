@@ -10,9 +10,9 @@ Bilgisayar Mühendisliği öğrencisiyim ve yaptığım çalışmaları github �
 
 
 ## GitHub İstatistiklerim
-![Burak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=burakaltundas&show_icons=true&hide_title=true)
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burakltnds&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burakltnds&layout=compact&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burakltnds&size_weight=0.5&count_weight=0.5)
+
 
 
 
