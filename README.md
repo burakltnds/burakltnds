@@ -5,11 +5,6 @@ Bilgisayar Mühendisliği öğrencisiyim ve yaptığım çalışmaları github �
 - E-posta: burakaltundas52@gmail.com
 - LinkedIn: [Burak Altundaş](https://www.linkedin.com/in/burakaltundas/)
 
-
-## GitHub İstatistiklerim
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burakltnds&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burakltnds&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 🚀 Kullandığım Diller
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -24,4 +19,7 @@ Bilgisayar Mühendisliği öğrencisiyim ve yaptığım çalışmaları github �
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/>
 </p>
 
+## GitHub İstatistiklerim
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burakltnds&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burakltnds&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
