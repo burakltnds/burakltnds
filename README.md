@@ -2,7 +2,8 @@
 Bilgisayar Mühendisliği öğrencisiyim ve yaptığım çalışmaları github üzerinden paylaşıyorum
 
 ## İletişim
-- E-posta: burakaltundas52@gmail.com
+- **E-posta**: [burakaltundas52@gmail.com](mailto:burakaltundas52@gmail.com)
+
 - LinkedIn: [Burak Altundaş](https://www.linkedin.com/in/burakaltundas/)
 
 ## 🚀 Kullandığım Diller
