@@ -13,6 +13,15 @@ Bilgisayar Mühendisliği öğrencisiyim ve yaptığım çalışmaları github �
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burakltnds&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burakltnds&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+### 🚀 Kullandığım Diller ve Teknolojiler
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+</p>
 
 
 
