@@ -3,8 +3,8 @@ Bilgisayar Mühendisliği öğrencisiyim ve yaptığım çalışmaları github �
 
 ## 📬 İletişim
 
-[![Email](https://img.shields.io/badge/Email-burakaltundas52@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:burakaltundas52@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Burak_Altundaş-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/burakaltundas/)
+-[![Email](https://img.shields.io/badge/Email-burakaltundas52@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:burakaltundas52@gmail.com)
+-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Burak_Altundaş-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/burakaltundas/)
 
 ## 🚀 Kullandığım Diller
 <p align="left">
