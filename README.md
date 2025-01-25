@@ -25,3 +25,9 @@ Bilgisayar Mühendisliği öğrencisiyim ve yaptığım çalışmaları github �
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burakltnds&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakltnds&layout=donut" alt="Top Languages" style="border-radius: 10px; background-color: #ffffff; padding: 5px;">
+  </a>
+</p>
+
