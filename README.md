@@ -25,9 +25,10 @@ Bilgisayar Mühendisliği öğrencisiyim ve yaptığım çalışmaları github �
 </p>
 
 
-<p align="center">
+<p align="center" style="background-color:#000000; padding: 10px; border-radius: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakltnds&layout=donut&theme=gruvbox" alt="Most Used Languages">
 </p>
+
 
 
 
