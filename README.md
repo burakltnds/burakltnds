@@ -6,7 +6,7 @@ Bilgisayar Mühendisliği öğrencisiyim ve yaptığım çalışmaları github �
 [![Email](https://img.shields.io/badge/Email-burakaltundas52@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:burakaltundas52@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Burak_Altundaş-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/burakaltundas/)
 
-## 🚀 Kullandığım Diller ve Frameworkler
+## 🚀 Kullandığım Diller
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
