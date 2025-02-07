@@ -6,13 +6,17 @@ Bilgisayar Mühendisliği öğrencisiyim ve yaptığım çalışmaları github �
 [![Email](https://img.shields.io/badge/Email-burakaltundas52@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:burakaltundas52@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Burak_Altundaş-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/burakaltundas/)
 
-## 🚀 Kullandığım Diller
-<p align="left">
+## 🚀 Kullandığım Diller ve Frameworkler
+<div style="display: flex; flex-direction: column; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</p>
+  
+  <div style="display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40"/>
+  </div>
+</div>
 
 ## 🚀 Kullandığım Teknolojiler
 <p align="left">
