@@ -14,7 +14,7 @@ Bilgisayar Mühendisliği öğrencisiyim ve yaptığım çalışmaları github �
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
-## 🚀 Kütüpaneler
+## 🚀 Kullandığım Python Kütüpaneleri
 <p align="left">    
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
