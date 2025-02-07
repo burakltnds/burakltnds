@@ -7,18 +7,12 @@ Bilgisayar Mühendisliği öğrencisiyim ve yaptığım çalışmaları github �
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Burak_Altundaş-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/burakaltundas/)
 
 ## 🚀 Kullandığım Diller ve Frameworkler
-<div style="display: flex; flex-direction: column; align-items: center;">
-
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  
-
-  <div style="display: flex; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40"/>
-  </div>
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</p> hepsinin alt alta sıralanmasını istiyorum yanlarına frameworkleri ekleyeceğim
 
 ## 🚀 Kullandığım Teknolojiler
 <p align="left">
