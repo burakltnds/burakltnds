@@ -1,4 +1,5 @@
 # Merhaba, Ben Burak! 👋
+
 ## 👨‍💻 Hakkımda
 
 🎓 Bilgisayar Mühendisliği öğrencisiyim.  
@@ -8,10 +9,9 @@
 
 ---
 
-## 🔧 Aktif Olduğum Alanlar
+## 🔧 İlgili Olduğum Alanlar
 - 📱 Mobil Uygulama Geliştirme (Android, Flutter)
 - 🧠 Yapay Zeka ve Makine Öğrenmesi
--
   
 ## 📬 İletişim
 
@@ -25,7 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/database.png" alt="SQL" width="40" height="40"/>
 </p>
 
 ## 🚀 Kullandığım Python Frameworkleri
