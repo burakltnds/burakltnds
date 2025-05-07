@@ -1,7 +1,6 @@
 # Merhaba, Ben Burak! 👋
 
 ## 👨‍💻 Hakkımda
-
 🎓 Bilgisayar Mühendisliği öğrencisiyim.  
 💡 Yazılım geliştirmeye, algoritmalara ve özellikle mobil & yapay zeka projelerine ilgi duyuyorum.  
 🚀 Öğrendiklerimi projelere döküp [GitHub](https://github.com/burakltnds) üzerinde paylaşmayı seviyorum.  
