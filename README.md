@@ -1,6 +1,18 @@
 # Merhaba, Ben Burak! 👋
-Bilgisayar Mühendisliği öğrencisiyim ve yaptığım çalışmaları github üzerinden paylaşıyorum
+## 👨‍💻 Hakkımda
 
+🎓 Bilgisayar Mühendisliği öğrencisiyim.  
+💡 Yazılım geliştirmeye, algoritmalara ve özellikle mobil & yapay zeka projelerine ilgi duyuyorum.  
+🚀 Öğrendiklerimi projelere döküp [GitHub](https://github.com/burakltnds) üzerinde paylaşmayı seviyorum.  
+📚 Sürekli öğrenmeye ve kendimi geliştirmeye odaklıyım.
+
+---
+
+## 🔧 Aktif Olduğum Alanlar
+- 📱 Mobil Uygulama Geliştirme (Android, Flutter)
+- 🧠 Yapay Zeka ve Makine Öğrenmesi
+-
+  
 ## 📬 İletişim
 
 [![Email](https://img.shields.io/badge/Email-burakaltundas52@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:burakaltundas52@gmail.com)
@@ -12,6 +24,8 @@ Bilgisayar Mühendisliği öğrencisiyim ve yaptığım çalışmaları github �
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/database.png" alt="SQL" width="40" height="40"/>
 </p>
 
 ## 🚀 Kullandığım Python Frameworkleri
@@ -25,6 +39,7 @@ Bilgisayar Mühendisliği öğrencisiyim ve yaptığım çalışmaları github �
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
 ## GitHub İstatistiklerim
