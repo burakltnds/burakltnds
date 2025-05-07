@@ -7,8 +7,6 @@
 🚀 Öğrendiklerimi projelere döküp [GitHub](https://github.com/burakltnds) üzerinde paylaşmayı seviyorum.  
 📚 Sürekli öğrenmeye ve kendimi geliştirmeye odaklıyım.
 
----
-
 ## 🔧 İlgili Olduğum Alanlar
 - 📱 Mobil Uygulama Geliştirme (Android, Flutter)
 - 🧠 Yapay Zeka ve Makine Öğrenmesi
