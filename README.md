@@ -38,9 +38,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burakltnds&theme=gruvbox" alt="Profile Summary">
 </p>
 
-
 <p align="center" style="background-color:#000000; padding: 10px; border-radius: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakltnds&layout=donut&theme=gruvbox" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakltnds&layout=donut&theme=gruvbox&hide=jupyter%20notebook" alt="Most Used Languages (No Jupyter)">
 </p>
 
 
