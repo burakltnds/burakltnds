@@ -39,7 +39,7 @@ MLOps süreçlerine duyduğum ilgi, veriden katma değer üreten, uçtan uca ç�
   </tr>
 </table>
 
-<br>
+<br> <br>
 
 ## GitHub İstatistiklerim
 <p align="center">
