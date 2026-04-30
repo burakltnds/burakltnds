@@ -2,12 +2,13 @@
 
 ## Hakkımda
 Bilgisayar Mühendisliği öğrencisiyim.  
-Veri Bilimi, Makine Öğrenmesi, Derin öğrenme gibi alanlara ilgi duyuyorum ve bu alanlarda çeşitli çalışmalar yürütüyorum.  
+Veri Bilimi, Makine Öğrenmesi, Derin öğrenme gibi alanlara ilgi duyuyorum ve bu alanlarda çeşitli çalışmalar yürütüyorum. 
+MLOps süreçlerine duyduğum ilgi, veriden katma değer üreten, uçtan uca çözümler geliştirmeyi ve yenilikçi projelerde yer almayı hedefliyorum  
 Öğrendiklerimi projelere döküp [GitHub](https://github.com/burakltnds) üzerinde paylaşıyorum.  
 
 ## İlgili Olduğum Alanlar
 - Veri Bilimi
-- Mlops süreçleri
+- Mlops Süreçleri
 - Makine Öğrenmesi ve Derin Öğrenme
   
 ## İletişim
@@ -16,7 +17,7 @@ Veri Bilimi, Makine Öğrenmesi, Derin öğrenme gibi alanlara ilgi duyuyorum ve
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Burak_Altundaş-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/burakaltundas/)
 
 ## Kullandığım Diller
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -25,7 +26,7 @@ Veri Bilimi, Makine Öğrenmesi, Derin öğrenme gibi alanlara ilgi duyuyorum ve
 </p>
 
 ## Kullandığım Teknolojiler
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
