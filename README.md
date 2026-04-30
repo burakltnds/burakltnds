@@ -27,6 +27,8 @@ MLOps süreçlerine duyduğum ilgi, veriden katma değer üreten, uçtan uca ç�
   </tr>
 </table>
 
+<br> <br>
+
 ## Kullandığım Teknolojiler
 <table align="left">
   <tr>
