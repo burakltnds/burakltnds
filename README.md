@@ -36,7 +36,9 @@ MLOps süreçlerine duyduğum ilgi, veriden katma değer üreten, uçtan uca ç�
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/></td>
   </tr>
 </table>
+
 <br>
+
 ## GitHub İstatistiklerim
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burakltnds&theme=gruvbox" alt="Profile Summary">
