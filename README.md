@@ -1,21 +1,21 @@
-# Merhaba, Ben Burak! 👋
+# Merhaba, Ben Burak
 
-## 👨‍💻 Hakkımda
-🎓 Bilgisayar Mühendisliği öğrencisiyim.  
-💡 Yazılım geliştirmeye, algoritmalara ve özellikle mobil & yapay zeka projelerine ilgi duyuyorum.  
-🚀 Öğrendiklerimi projelere döküp [GitHub](https://github.com/burakltnds) üzerinde paylaşmayı seviyorum.  
-📚 Sürekli öğrenmeye ve kendimi geliştirmeye odaklıyım.
+## Hakkımda
+Bilgisayar Mühendisliği öğrencisiyim.  
+Veri Bilimi, Makine Öğrenmesi, Derin öğrenme gibi alanlara ilgi duyuyorum ve bu alanlarda çeşitli çalışmalar yürütüyorum.  
+Öğrendiklerimi projelere döküp [GitHub](https://github.com/burakltnds) üzerinde paylaşıyorum.  
 
-## 🔧 İlgili Olduğum Alanlar
-- 📱 Mobil Uygulama Geliştirme (Android, Flutter)
-- 🧠 Yapay Zeka ve Makine Öğrenmesi
+## İlgili Olduğum Alanlar
+- Veri Bilimi
+- Mlops süreçleri
+- Makine Öğrenmesi ve Derin Öğrenme
   
-## 📬 İletişim
+## İletişim
 
 [![Email](https://img.shields.io/badge/Email-burakaltundas52@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:burakaltundas52@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Burak_Altundaş-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/burakaltundas/)
 
-## 🚀 Kullandığım Diller
+## Kullandığım Diller
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
 </p>
 
-## 🚀 Kullandığım Teknolojiler
+## Kullandığım Teknolojiler
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/>
