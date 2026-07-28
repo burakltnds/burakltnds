@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Merhaba 👋, Ben Burak!</h1>
-  <h3>Bilgisayar Mühendisliği Öğrencisi | Veri Bilimi & MLOps Tutkunu</h3>
+  <h3>Bilgisayar Mühendisliği Öğrencisi | Veri Bilimi & MLOps </h3>
   <img src="https://komarev.com/ghpvc/?username=burakltnds&label=Profil+Görüntülenme&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
@@ -8,11 +8,11 @@
 
 ## 👨🏻‍💻 Hakkımda
 
-Veri Bilimi, Makine Öğrenmesi ve Derin Öğrenme alanlarında kendini sürekli geliştiren bir Bilgisayar Mühendisliği öğrencisiyim. Veriden katma değer üreten, uçtan uca çözümler geliştirmeyi ve yenilikçi projelerde yer almayı hedefliyorum. 
+Veri Bilimi, Makine Öğrenmesi ve Derin Öğrenme alanlarında kendini sürekli geliştiren bir Bilgisayar Mühendisliği öğrencisiyim. Uçtan uca çözümler geliştirmeyi ve yenilikçi projelerde yer almayı hedefliyorum. 
 
 - 🔭 Şu anda **Makine Öğrenmesi modelleri** ve **MLOps süreçleri** üzerine çalışıyorum.
-- 🌱 **Docker, Jenkins, FastAPI** ve **SQLAlchemy** gibi teknolojilerle uçtan uca mimariler ve özel chatbot sistemleri geliştiriyorum.
-- 📊 **Kaggle** üzerinde (Titanic, House Prices vb.) veri analizi ve tahmine dayalı modelleme pratikleri yapıyorum.
+- 🌱 **Docker, Jenkins, FastAPI** gibi teknolojilerle uçtan uca mimariler geliştiriyorum.
+- 📊 **Kaggle** veri analizi ve tahmine dayalı modelleme pratikleri yapıyorum.
 - ⚡ Mikrodenetleyiciler (Arduino) ve donanım simülasyonları ile uğraşmaktan keyif alıyorum.
 - 💬 Bana **Veri Bilimi, MLOps ve Yazılım Geliştirme** süreçleri hakkında her şeyi sorabilirsiniz.
 
@@ -59,9 +59,9 @@ Ağırlıklı olarak kullandığım diller, araçlar ve kütüphaneler:
 
 <br/>
 
-## 📫 İletişim & Bağlantılar
+## 📫 Bağlantılarım
 
-Projelerim hakkında konuşmak, iş birliği yapmak veya sadece merhaba demek için bana ulaşabilirsin:
+Projelerim hakkında konuşmak, iş birliği yapmak veya sadece merhaba demek için bana aşağıdaki platformlardan ulaşabilirsin:
 
 <div align="left">
   <a href="mailto:burakaltundas52@gmail.com">
@@ -69,5 +69,8 @@ Projelerim hakkında konuşmak, iş birliği yapmak veya sadece merhaba demek i�
   </a>
   <a href="https://www.linkedin.com/in/burakaltundas/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.kaggle.com/burakaltunda">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
   </a>
 </div>
