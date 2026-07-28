@@ -66,7 +66,7 @@ Veri Bilimi, Makine Öğrenmesi ve Derin Öğrenme alanlarında kendini sürekli
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakltnds&layout=donut&theme=gruvbox&hide=jupyter%20notebook" alt="Most Used Languages (No Jupyter)" width="400">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakltnds&layout=donut&theme=gruvbox" alt="Most Used Languages" width="400">
 
 <br/><br/>
 
