@@ -13,8 +13,6 @@ Veri Bilimi, Makine Öğrenmesi ve Derin Öğrenme alanlarında kendini sürekli
 🔭 Şu anda **Makine Öğrenmesi modelleri** ve **MLOps süreçleri** üzerine çalışıyorum.<br>
 🌱 **Docker, Jenkins, FastAPI** gibi teknolojilerle uçtan uca mimariler geliştiriyorum.<br>
 📊 **Kaggle** veri analizi ve tahmine dayalı modelleme pratikleri yapıyorum.<br>
-⚡ Mikrodenetleyiciler (Arduino) ve donanım simülasyonları ile uğraşmaktan keyif alıyorum.<br>
-💬 Bana **Veri Bilimi, MLOps ve Yazılım Geliştirme** süreçleri hakkında her şeyi sorabilirsiniz.
 
 <br/><br/>
 
