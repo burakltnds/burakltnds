@@ -6,6 +6,12 @@
 
 <br/><br/>
 
+<a href="https://burakaltundas.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Web_Sitemi_Ziyaret_Edin-005C5B?style=for-the-badge&logo=netlify&logoColor=white" alt="Web Sitem" />
+</a>
+
+<br/><br/>
+
 ## 👨🏻‍💻 Hakkımda
 
 Veri Bilimi, Makine Öğrenmesi ve Derin Öğrenme alanlarında kendini sürekli geliştiren bir Bilgisayar Mühendisliği öğrencisiyim. Uçtan uca çözümler geliştirmeyi ve yenilikçi projelerde yer almayı hedefliyorum. 
